@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: SimpleCamera, Configuration: Debug x86 ------
+1>  Skipping H:/SimpleCamera/SimpleCamera/Content/bigback3000x3000.png
+1>  Skipping H:/SimpleCamera/SimpleCamera/Content/debug.spritefont
+1>  Skipping H:/SimpleCamera/SimpleCamera/Content/right arrow.png
+1>  Skipping H:/SimpleCamera/SimpleCamera/Content/spindash.png
+1>  SimpleCamera -> H:\SimpleCamera\SimpleCamera\bin\Windows\Debug\SimpleCamera.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
